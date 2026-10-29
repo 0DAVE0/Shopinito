@@ -1,0 +1,2 @@
+-- Optional development data should be inserted only after creating a test account.
+-- Do not put real customer information or real payment details in this file.
